@@ -1,0 +1,29 @@
+# Jekyll configuration file
+
+title: "Universal Pattern Language"
+description: "A modern front end, engaging display of the content"
+baseurl: ""
+url: "https://composable-delivery.github.io/Universal-Pattern-Language"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Source directory for markdown files
+source: .
+include:
+  - MANIFESTO.md
+  - VISION.md
+
+# Exclude these files from the build
+exclude:
+  - README.md
+  - LICENSE
+  - styles.css
+  - script.js
+  - .github
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
