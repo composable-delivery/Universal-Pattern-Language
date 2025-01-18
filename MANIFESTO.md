@@ -2,11 +2,13 @@
 
 ## The Challenge: Our Digital Babel
 
-We stand at a crossroads in human history. Our technological capabilities have exceeded our ability to communicate intent clearly between humans and machines. This isn't just a technical problem - it's an existential challenge for the AI era.
+We stand at a crossroads in human history. Our technological capabilities have exceeded our ability to communicate intent clearly between humans and machines. We humans even struggle to communicate our own intent and to interpret the intent of others. Using text makes that even worse. 
+
+**This isn't just a technical problem - it's an existential challenge for the AI era we are now entering.**
 
 ### The AI Training Crisis: A Symptom of Babel
 
-The astronomical costs of training modern AI models reveal a deeper truth:
+**The astronomical costs of training modern AI models reveal a deeper truth**:
 - Billions in compute costs
 - Nation-state levels of energy consumption
 - Petabytes of training data
@@ -14,18 +16,18 @@ The astronomical costs of training modern AI models reveal a deeper truth:
 
 These aren't problems to be solved with more data, better math, or more powerful computers. They're symptoms of a fundamental flaw in how we communicate meaning and intent to our machines.
 
-This instability in AI training mirrors physics' "spooky action at a distance" moment - a sign that our current models fundamentally misunderstand the nature of the problem. But unlike physics, we don't yet have our E=MC² to make sense of it all.
+This instability in AI training mirrors physics' "spooky action at a distance" moment - a sign that our current models fundamentally misunderstand the nature of the problem. But unlike physics, **we don't yet have our E=MC² to make sense of it all**.
 
 ## The Fidelity Gap: Our Core Challenge
 
-Between human intent and computer execution lies what we call the "fidelity gap" - the loss of meaning that occurs when we translate rich human understanding into traditional computing paradigms. Our attempts to bridge this gap have evolved:
+Between human intent and computer execution lies what we call **the "fidelity gap" - the loss of meaning** that occurs when we translate rich human understanding into traditional computing paradigms. Our attempts to bridge this gap have evolved:
 
 - From punch cards to keyboards
 - From command lines to GUIs 
 - From touch to voice
 - And now to large language models
 
-Each step expanded our reach but revealed how far we still have to go. The spiraling costs of AI training aren't a sign we need more of the same - they're a warning that we're approaching the problem from the wrong direction.
+Each step expanded our reach but revealed how far we still have to go. The spiraling costs of AI training aren't a sign we need more of the same - **they're a warning that we're approaching the problem from the wrong direction**.
 
 ## Our Modern Reality: Living Systems, Not Frozen Code
 
